@@ -1,0 +1,13 @@
+Janvi Pawar
+Email: janvi.pawar@example.com
+Phone: 9876503210
+
+Skills:
+Python, SQL, Excel, Communication, Leadership
+
+Experience:
+Software Developer at ABC Corp - 2 years
+Intern at XYZ Ltd - 6 months
+
+Education:
+B.Tech in Computer Science
