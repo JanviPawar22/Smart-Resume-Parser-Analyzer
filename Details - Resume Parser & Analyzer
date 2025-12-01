@@ -1,0 +1,13 @@
+## Features
+- Extract basic information from resumes
+- Compare candidate skills with job requirements
+- Generate a simple candidate score
+- Easy to use and extend
+
+
+# Usage
+1. Place `.txt` resumes in the `resumes/` folder.
+2. Update the `job_skills` list in `main.py` with required skills.
+3. Run the program:
+```bash
+python main.py
